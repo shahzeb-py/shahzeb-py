@@ -23,7 +23,7 @@ live in a cold place ❄ and speak english 🚀
 **shahzebpy@gmail.com**
 ## Fun fact  <img src="https://em-content.zobj.net/source/skype/289/weary-cat_1f640.png" width="30" /> ##
 
-**I like you  ** <img src="https://em-content.zobj.net/source/skype/289/face-with-hand-over-mouth_1f92d.png" width="30" />
+I like you <img src="https://em-content.zobj.net/source/skype/289/face-with-hand-over-mouth_1f92d.png" width="30" />
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,blender,bootstrap,css,dart,discord,express,firebase,flask,flutter,git,github,gitlab,html,java,js,linux,mongodb,mysql,nodejs,ps,py,selenium,ts,vscode&perline=10">
