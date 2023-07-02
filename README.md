@@ -1,4 +1,4 @@
-![technology-binary-number-programming-wallpaper-3515x2480_68](https://images.tynker.com/blog/wp-content/uploads/09-05-2017-why-coding-infographic-blog.png)
+![technology-binary-number-programming-wallpaper-351x248_68](https://images.tynker.com/blog/wp-content/uploads/09-05-2017-why-coding-infographic-blog.png)
 <h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 <h2 align="center">I'm Shahzeb Malik <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="40"   </h2>
 <h3 align="center">A passionate coder from Pakistan <img src="https://1.bp.blogspot.com/-5RQ0pHpGxRo/YD6cEaaWmbI/AAAAAAAA4pc/bUpfzganFjUgoxrOLZGbK8NHXz9PLBChACLcBGAsYHQ/s0/Flag_of_Pakistan.gif"  width="40"  /> </h3>
