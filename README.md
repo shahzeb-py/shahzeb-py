@@ -1,21 +1,10 @@
-
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=shahzeb-py&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb-py" />
+<div style="display:flex">
+  </p>
 <h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 <h2 align="center">I'm Shahzeb Malik <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="40"   </h2>
 <h3 align="center">A passionate coder from Pakistan <img src="https://1.bp.blogspot.com/-5RQ0pHpGxRo/YD6cEaaWmbI/AAAAAAAA4pc/bUpfzganFjUgoxrOLZGbK8NHXz9PLBChACLcBGAsYHQ/s0/Flag_of_Pakistan.gif"  width="40"  /> </h3>
-  
-  <p align="left"> <a href="https://www.instagram.com/shahzaib.py" target="blank"><img src="https://img.shields.io/badge/Follow%20Me-On%20Instagram-blue" /></a> </p>
-  
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=shahzeb-py&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb-py" />
-<div style="display:flex">
-  
-
-  
-  
-  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-  </p>
-
 ## About me ## 
-
 - ✨ Creating bugs since corona virus <img src="https://slackmojis.com/emojis/7652-coronavirus/image/1680446543/coronavirus.png" width="20" />
 - 📚 I'm currently learning **python** <img src="https://slackmojis.com/emojis/32-python/image/1679862628/python.png" width="17" />
 - 💬 Ask me about **C, C++, Python, Java, Html** 
