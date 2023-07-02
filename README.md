@@ -28,7 +28,7 @@ live in a cold place ❄ and speak english 🚀
 
 ## Fun fact  <img src="https://em-content.zobj.net/source/skype/289/weary-cat_1f640.png" width="30" /> ##
 
-I like Pizza <img src="https://em-content.zobj.net/source/skype/289/face-with-hand-over-mouth_1f92d.png" width="30" />
+I am Spiderman <img src="https://em-content.zobj.net/source/skype/289/face-with-hand-over-mouth_1f92d.png" width="30" />
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,selenium,c++&perline=10">
